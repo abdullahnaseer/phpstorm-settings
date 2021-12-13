@@ -34,7 +34,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
