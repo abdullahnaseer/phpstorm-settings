@@ -4,7 +4,7 @@
     <property name="created">2021-07-03T13:50:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-12-13T14:32:40</property>
+    <property name="modified">2021-12-15T12:18:34</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -224,9 +224,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ab47bc" />
