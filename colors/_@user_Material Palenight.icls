@@ -4,7 +4,7 @@
     <property name="created">2021-07-03T13:50:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-12-14T23:16:01</property>
+    <property name="modified">2021-12-15T12:18:34</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3816,9 +3816,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
