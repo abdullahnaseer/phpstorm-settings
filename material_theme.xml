@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="invertedSelectionColor" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -19,7 +20,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="treeFontSize" value="14" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="005de0" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-1e7ca22d:17a6b9037da:-8000" />
