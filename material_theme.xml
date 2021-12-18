@@ -1,28 +1,23 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
-    <option name="useProjectFrame" value="true" />
     <option name="treeFontSize" value="16" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="005de0" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-1e7ca22d:17a6b9037da:-8000" />
     <option name="version" value="6.10.1" />
