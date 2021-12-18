@@ -8,6 +8,7 @@
     <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="customTitle" value="{project} - {module} - {file}" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -19,6 +20,7 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
+    <option name="useCustomTitle" value="true" />
     <option name="useProjectFrame" value="true" />
     <option name="treeFontSize" value="16" />
     <option name="settingsSelectedTab" value="5" />
