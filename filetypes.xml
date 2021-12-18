@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="ResetPassword" type="AUTO_DETECTED" />
+      <mapping pattern="components" type="AUTO_DETECTED" />
+      <mapping pattern=".phpstan.neo" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="neo" type="PLAIN_TEXT" />
+      <mapping ext="php\" type="PLAIN_TEXT" />
+      <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+    </extensionMap>
+  </component>
+</application>
