@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ResetPassword" type="AUTO_DETECTED" />
       <mapping pattern="components" type="AUTO_DETECTED" />
+      <mapping pattern="Index" type="AUTO_DETECTED" />
       <mapping pattern=".phpstan.neo" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
