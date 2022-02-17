@@ -2,7 +2,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="b686ad24-e993-466d-b09c-755fe233fc9d" name="PHP 8.0" home="C:\php\php8.0\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="4a319422-b1b1-4154-b166-3d10b831a0a7" name="PHP 8.1" home="C:\php\php8.1\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4a319422-b1b1-4154-b166-3d10b831a0a7" name="PHP 8.1" home="C:\php\php8.1.1\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -57,9 +57,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cgi="C:\php\php8.1\php-cgi.exe" php_cli="C:\php\php8.1\php.exe" path_separator=";" version="8.1.1">
+        <phpinfo binary_type="PHP" php_cgi="C:\php\php8.1.1\php-cgi.exe" php_cli="C:\php\php8.1.1\php.exe" path_separator=";" version="8.1.1">
           <additional_php_ini />
-          <configuration_file>C:\php\php8.1\php.ini</configuration_file>
+          <configuration_file>C:\php\php8.1.1\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
