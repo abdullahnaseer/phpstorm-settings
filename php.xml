@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="b686ad24-e993-466d-b09c-755fe233fc9d" name="PHP 8.0" home="C:\php\php8.0\php.exe" debugger_id="php.debugger.XDebug" />
