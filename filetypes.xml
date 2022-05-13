@@ -8,7 +8,6 @@
       <mapping pattern="GiftCardStepPrice" type="AUTO_DETECTED" />
       <mapping pattern="Reward" type="AUTO_DETECTED" />
       <mapping pattern="customer" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".phpstan.neo" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
