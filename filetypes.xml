@@ -17,7 +17,6 @@
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="neon" approved="true" type="Neon" />
     </extensionMap>
   </component>
