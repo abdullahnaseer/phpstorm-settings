@@ -4,6 +4,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="invertedSelectionColor" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -20,6 +21,6 @@
     <option name="accentColor" value="5294e2" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-1e7ca22d:17a6b9037da:-8000" />
-    <option name="version" value="7.5.0.2" />
+    <option name="version" value="7.5.2.2" />
   </component>
 </application>
